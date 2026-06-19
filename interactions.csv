@@ -1,0 +1,11 @@
+id,civ_a_id,civ_b_id,interaction_type,start_year,notes
+1,1,2,comércio,-3000,Evidências de troca de lápis-lazúli e tecidos entre Mesopotâmia e Egito
+2,1,3,comércio,-2500,Rota comercial via Golfo Pérsico — metais e têxteis
+3,1,2,guerra,-1274,Batalha de Kadesh entre hititas (aliados da Mesopotâmia) e Egito
+4,2,7,cultural,-800,Influência egípcia na escultura e arquitetura grega arcaica
+5,3,1,comércio,-2300,Selos Harappá encontrados em Ur — evidência de comércio direto
+6,7,8,cultural,-300,Roma absorve cultura grega após conquista da Magna Grécia
+7,7,8,guerra,-264,Primeira Guerra Púnica — Roma vs Cartago (aliada grega)
+8,7,8,cultural,-146,Conquista romana da Grécia — helenização de Roma
+9,1,4,cultural,-1500,Possível transmissão de técnicas de bronze via rotas da Ásia Central
+10,5,6,cultural,-1000,Possível intercâmbio cultural entre Mesoamérica e Andes via rotas costeiras

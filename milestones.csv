@@ -1,0 +1,29 @@
+id,civilization_id,milestone_type,year,notes
+1,1,urbanização,-3500,Uruk — primeira grande cidade da história com +50.000 habitantes
+2,1,escrita,-3200,Escrita cuneiforme para registros administrativos
+3,1,metalurgia,-3000,Bronze a partir de cobre e estanho
+4,1,código de leis,-1754,Código de Hamurabi
+5,2,unificação política,-3100,Faraó Narmer une Alto e Baixo Egito
+6,2,escrita,-3000,Hieróglifos para registros religiosos e administrativos
+7,2,arquitetura monumental,-2560,Grande Pirâmide de Gizé
+8,2,calendário,-2800,Calendário solar de 365 dias
+9,3,urbanização,-2600,Mohenjo-daro e Harappá — cidades planejadas com esgoto
+10,3,escrita,-2600,Escrita Indus — ainda não decifrada
+11,3,padronização,-2500,Pesos e medidas padronizados em toda a rede urbana
+12,4,escrita,-1200,Oracle bones — escrita divinatória em ossos e carapaças
+13,4,metalurgia,-1600,Bronzes rituais de alta complexidade técnica
+14,4,urbanização,-1500,Anyang — capital do período Shang tardio
+15,5,arquitetura monumental,-1200,Cabeças colossais de basalto
+16,5,calendário,-900,Sistema calendário de 365 dias
+17,5,urbanização,-1000,San Lorenzo — primeiro centro urbano da Mesoamérica
+18,6,arquitetura monumental,-2600,Pirâmides de Caral — mais antigas das Américas
+19,6,urbanização,-3000,Caral — cidade com ~3000 habitantes sem escrita nem cerâmica
+20,6,agricultura especializada,-2800,Sistema de irrigação para algodão
+21,7,democracia,-508,Reformas de Clístenes em Atenas
+22,7,filosofia,-585,Pré-socráticos — início do pensamento racional ocidental
+23,7,arquitetura monumental,-447,Construção do Partenon
+24,7,escrita,-800,Alfabeto grego derivado do fenício
+25,8,república,-509,Fundação da República Romana
+26,8,direito,-450,Lei das XII Tábuas
+27,8,arquitetura monumental,-80,Coliseu iniciado sob Vespasiano
+28,8,engenharia,-312,Via Ápia — primeira grande estrada pavimentada

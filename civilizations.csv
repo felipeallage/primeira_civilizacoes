@@ -1,0 +1,9 @@
+id,name,region,start_year,end_year,peak_population,social_complexity_score,government_type,writing_system
+1,Suméria,Mesopotâmia,-3500,-2000,800000,8.5,teocracia,true
+2,Egito Antigo,Vale do Nilo,-3100,-30,5000000,8.8,monarquia divina,true
+3,Harappá,Vale do Indo,-2600,-1900,5000000,7.2,oligarquia urbana,true
+4,China Antiga (Shang),Vale do Rio Amarelo,-1600,-1046,3000000,7.8,monarquia,true
+5,Olmeca,Mesoamérica,-1500,-400,350000,6.5,teocracia,false
+6,Caral,Andes Centrais,-3000,-1800,3000,6.0,teocracia,false
+7,Grécia Antiga,Mar Mediterrâneo,-800,-146,7000000,9.0,cidade-estado/democracia,true
+8,Roma Antiga,Itália Central,-753,476,70000000,9.5,república/império,true

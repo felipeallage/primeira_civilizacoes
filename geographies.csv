@@ -1,0 +1,9 @@
+id,civilization_id,latitude,longitude,climate_zone,near_river,river_name,coastal,elevation_m
+1,1,32.5,45.8,árido,true,Tigre e Eufrates,false,34
+2,2,26.8,30.8,árido,true,Nilo,false,75
+3,3,27.3,68.1,árido,true,Indo,false,40
+4,4,34.8,114.3,temperado,true,Rio Amarelo,false,120
+5,5,18.0,-95.0,tropical,true,Coatzacoalcos,true,50
+6,6,-10.9,-77.8,árido costeiro,true,Supe,true,350
+7,7,38.0,23.7,mediterrâneo,false,,true,300
+8,8,41.9,12.5,mediterrâneo,true,Tibre,true,21

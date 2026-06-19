@@ -1,0 +1,25 @@
+id,civilization_id,resource_type,abundance,notes
+1,1,agricultura,alta,Irrigação entre Tigre e Eufrates — cevada e trigo
+2,1,argila,alta,Principal material de construção e escrita (tábuas cuneiformes)
+3,1,pesca,média,Rios abundantes em peixes
+4,2,agricultura,alta,Inundação anual do Nilo depositava sedimentos férteis
+5,2,pedra,alta,Calcário e granito para construção monumental
+6,2,pesca,alta,Rio Nilo e Delta
+7,3,agricultura,alta,Planície aluvial do Indo — trigo e cevada
+8,3,mineração,média,Cobre e estanho para bronze
+9,3,comércio,alta,Rede comercial com Mesopotâmia e Golfo Pérsico
+10,4,agricultura,alta,Loess fértil do Rio Amarelo — painço e arroz
+11,4,seda,média,Sericultura já presente no período Shang
+12,4,bronze,alta,Produção avançada de bronze para rituais e guerra
+13,5,agricultura,média,Milho e mandioca em ambiente tropical
+14,5,borracha,alta,Látex de árvores nativas
+15,5,pesca,alta,Costa do Golfo do México
+16,6,agricultura,média,Algodão e abóbora — irrigação artificial no deserto costeiro
+17,6,pesca,alta,Costa do Pacífico — principal fonte de proteína
+18,6,comércio,média,Rede andina de intercâmbio
+19,7,comércio,alta,Controle das rotas marítimas do Mediterrâneo
+20,7,agricultura,média,Oliveiras, uvas e cereais
+21,7,mineração,média,Prata e mármore
+22,8,agricultura,alta,Solo vulcânico fértil na Itália Central
+23,8,comércio,alta,Controle do Mediterrâneo e rotas terrestres
+24,8,mineração,alta,Ferro, chumbo e ouro em províncias conquistadas
